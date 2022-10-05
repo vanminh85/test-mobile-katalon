@@ -28,7 +28,7 @@ Mobile.comment('And he navigates the application to Activity form')
 Mobile.tap(findTestObject('Application/android.widget.TextView - App'), 10)
 
 Mobile.tap(findTestObject('Application/App/android.widget.TextView-Activity'), 10)
-
+Mobile.takeScreenshotAsCheckpoint("baseline#1")
 Mobile.comment('When he taps on the Custom Dialog button')
 
 Mobile.tap(findTestObject('Application/App/Activity/android.widget.TextView-Custom Dialog'), 10)
