@@ -13,4 +13,12 @@ Mobile.startApplication(GlobalVariable.G_AndroidApp, false)
 Mobile.takeScreenshotAsCheckpoint('screenshot')
 
 'Close application on current selected android\'s device'
-Mobile.closeApplication()
+Mobile.closeApplicatio
+n()
+
+
+
+QE-45
+Step
+
+Expected output

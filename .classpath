@@ -161,6 +161,5 @@
 	<classpathentry kind="lib" path="C:/Users/minh.nguyen/Downloads/KatalonStudio/Katalon_Studio_PE_Windows_64-8.5.1/configuration/org.eclipse.osgi/31/0/.cp/resources/applitools/katalon-studio-applitools-plugin.jar"/>
 	<classpathentry kind="lib" path="C:/Users/minh.nguyen/Downloads/KatalonStudio/Katalon_Studio_PE_Windows_64-8.5.1/configuration/plugin/install/191651/1.0.2/ExcelKeywords.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
-	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
